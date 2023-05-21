@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/shahinrahimi/techdex-api#readme",
   "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
     "date-fns": "^2.30.0",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
